@@ -22,5 +22,7 @@ $(document).ready(function() {
 
 var addthis_config =
 {
-    ui_delay: 200
+    ui_delay: 200,
+    pubid: "ripeandtossed",
+    "data_track_clickback":true
 };

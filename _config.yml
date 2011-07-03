@@ -2,7 +2,7 @@ safe:        false
 auto:        false
 server:      false
 server_port: 4000
-host: http://ripeandtossed.github.com # file://D:\work\ripeandtossed.github.com/_site #
+host: file://D:\work\ripeandtossed.github.com/_site # http://ripeandtossed.github.com #
 
 source:      .
 destination: ./_site

@@ -126,7 +126,7 @@
 
       .dsq-comment-text {font-size:87%;}
 
-      #comments {}
+      #comments {margin: 50px 0 30px 0;}
 
       .current-page {
             cursor:default;
